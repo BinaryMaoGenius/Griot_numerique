@@ -18,6 +18,10 @@ Ouvre [`le commencement.html`](./le%20commencement.html) dans ton navigateur. C�
 ## Pourquoi ce projet
 Il rapproche deux univers : la **culture orale d’Afrique de l’Ouest** et la **cybersécurité**, expliquées *en clair*.
 
+## Licence
+
+Contenus sous [licence CC BY 4.0](./LICENSE) · © 2026 Emmanuel Elisé Koné. Tu peux les réutiliser et les adapter, à condition de me citer.
+
 ---
 
 Construit par **Emmanuel Elisé Koné** ([BinaryMaoGenius](https://github.com/BinaryMaoGenius)) · *La tech en clair*
