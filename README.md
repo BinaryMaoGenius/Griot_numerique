@@ -1,21 +1,23 @@
 <div align="center">
-  <h1>🪘 Griot Numérique</h1>
-  <p><strong>Preserving African oral culture and tradition through digital technology.</strong></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="Griot Numérique" width="100%">
+  </picture>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+*Les Chroniques des Maîtres de Code* : l’histoire du hacking racontée comme le ferait un **griot**, le conteur et gardien de la mémoire en Afrique de l’Ouest.
 
-## 🚀 Overview
-**Griot Numérique** (Digital Griot) is an innovative project aimed at bridging the gap between ancestral African storytelling and modern technology. In West African culture, the *Griot* is the storyteller, historian, and musician. This platform digitizes and preserves these invaluable cultural assets.
+![HTML5](https://img.shields.io/badge/HTML5-0E0E0C?style=flat-square&logo=html5&logoColor=D9A441) ![CSS3](https://img.shields.io/badge/CSS3-0E0E0C?style=flat-square&logo=css3&logoColor=D9A441) ![JavaScript](https://img.shields.io/badge/JavaScript-0E0E0C?style=flat-square&logo=javascript&logoColor=D9A441) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0E0E0C?style=flat-square&logo=tailwindcss&logoColor=D9A441)
 
-## ✨ Key Features
-- 📖 **Digital Archives**: Interactive storytelling interfaces.
-- 🎵 **Audio/Visual Integration**: Embedded multimedia experiences of traditional tales.
-- 🌍 **Cultural Heritage**: Dedicated to the promotion of Malian and broader African culture.
+## L’idée
+Rendre l’histoire de la cybersécurité accessible en reprenant la forme du conte : une préface du griot, puis 6 contes qui suivent l’histoire du hacking (des premiers explorateurs aux phreakers, aux premiers « royaumes numériques », à l’arrivée du web, jusqu’aux rançonneurs et aux défenseurs).
 
-## 👨‍💻 Developer
-Built by [BinaryMaoGenius](https://github.com/BinaryMaoGenius).
+## Voir le projet
+Ouvre [`le commencement.html`](./le%20commencement.html) dans ton navigateur. C’est une page unique, sans installation.
+
+## Pourquoi ce projet
+Il rapproche deux univers : la **culture orale d’Afrique de l’Ouest** et la **cybersécurité**, expliquées *en clair*.
+
+---
+
+Construit par **Emmanuel Elisé Koné** ([BinaryMaoGenius](https://github.com/BinaryMaoGenius)) · *La tech en clair*
