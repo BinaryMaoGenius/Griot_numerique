@@ -15,7 +15,7 @@
 ## ✨ Key Features
 - 📖 **Digital Archives**: Interactive storytelling interfaces.
 - 🎵 **Audio/Visual Integration**: Embedded multimedia experiences of traditional tales.
-- ðŸŒ **Cultural Heritage**: Dedicated to the promotion of Malian and broader African culture.
+- 🌍 **Cultural Heritage**: Dedicated to the promotion of Malian and broader African culture.
 
-## ðŸ‘¨â€ðŸ’» Developer
+## 👨‍💻 Developer
 Built by [BinaryMaoGenius](https://github.com/BinaryMaoGenius).
